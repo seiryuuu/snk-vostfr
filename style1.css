@@ -1,0 +1,109 @@
+#box1 {position: absolute;top: 0px;left: 0px; width: 1920px;height: 150px;background-color: dimgray;}
+body {background-color: black}
+#tittre {position: absolute;top: 0px;left: 850px; font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+#logo {position: absolute; top: 10px; left: 5px}
+
+#ep1 {position: absolute;top: 200px;left: 20px;}
+img {width: 350px; height: auto}
+p1 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep2 {position: absolute;top: 200px;left: 400px;}
+img {width: 350px; height: auto}
+p2 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep3 {position: absolute;top: 200px;left: 780px;}
+img {width: 350px; height: auto}
+p3 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep4 {position: absolute;top: 200px;left: 1160px;}
+img {width: 350px; height: auto}
+p4 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep5 {position: absolute;top: 200px;left: 1540px;}
+img {width: 350px; height: auto}
+p5 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep6 {position: absolute;top: 500px;left: 20px;}
+img {width: 350px; height: auto}
+p6 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep7 {position: absolute;top: 500px;left: 400px;}
+img {width: 350px; height: auto}
+p7 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep8 {position: absolute;top: 500px;left: 780px;}
+img {width: 350px; height: auto}
+p8 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep9 {position: absolute;top: 500px;left: 1160px;}
+img {width: 350px; height: auto}
+p9 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep10 {position: absolute;top: 500px;left: 1540px;}
+img {width: 350px; height: auto}
+p10 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep11 {position: absolute;top: 800px;left: 20px;}
+img {width: 350px; height: auto}
+p11 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep12 {position: absolute;top: 800px;left: 400px;}
+img {width: 350px; height: auto}
+p12 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep13 {position: absolute;top: 800px;left: 780px;}
+img {width: 350px; height: auto}
+p13 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep14 {position: absolute;top: 800px;left: 1160px;}
+img {width: 350px; height: auto}
+p14 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep15 {position: absolute;top: 800px;left: 1540px;}
+img {width: 350px; height: auto}
+p15 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep16 {position: absolute;top: 1100px;left: 20px;}
+img {width: 350px; height: auto}
+p16 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep17 {position: absolute;top: 1100px;left: 400px;}
+img {width: 350px; height: auto}
+p17 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep18 {position: absolute;top: 1100px;left: 780px;}
+img {width: 350px; height: auto}
+p18 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep19 {position: absolute;top: 1100px;left: 1160px;}
+img {width: 350px; height: auto}
+p19 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep20 {position: absolute;top: 1100px;left: 1540px;}
+img {width: 350px; height: auto}
+p20 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep21 {position: absolute;top: 1400px;left: 20px;}
+img {width: 350px; height: auto}
+p21 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep22 {position: absolute;top: 1400px;left: 400px;}
+img {width: 350px; height: auto}
+p22 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep23 {position: absolute;top: 1400px;left: 780px;}
+img {width: 350px; height: auto}
+p23 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep24 {position: absolute;top: 1400px;left: 1160px;}
+img {width: 350px; height: auto}
+p24 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#ep25 {position: absolute;top: 1400px;left: 1540px;}
+img {width: 350px; height: auto}
+p25 {position: absolute;top: 200px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+
+
+
+

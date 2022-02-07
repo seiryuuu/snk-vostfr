@@ -1,0 +1,24 @@
+#box1 {position: absolute;top: 0px;left: 0px; width: 1920px;height: 150px;background-color: dimgray;}
+body {background-color: black}
+#tittre {position: absolute;top: 0px; left: 380px; font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+#logo {position: absolute; top: 10px; left: 5px}
+
+#saison_1 {position: absolute;top: 200px;left: 20px;}
+img {width: 350px;height: auto}
+p1 {position: absolute;top: 530px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#saison_2 {position: absolute;top: 200px;left: 400px;}
+img {width: 350px;height: auto}
+p2 {position: absolute;top: 530px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#saison_3 {position: absolute;top: 200px;left: 780px;}
+img {width: 350px;height: auto}
+p3 {position: absolute;top: 530px;left: 130px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#saison_4_pt1 {position: absolute;top: 200px;left: 1160px;}
+img {width: 350px;height: auto}
+p4 {position: absolute;top: 530px;left: 100px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}
+
+#saison_4_pt2 {position: absolute;top: 200px;left: 1540px;}
+img {width: 350px;height: auto}
+p5 {position: absolute;top: 530px;left: 95px;font-family: 'Bebas Neue', cursive;color: white;font-size: 30px}

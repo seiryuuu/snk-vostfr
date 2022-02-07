@@ -1,0 +1,156 @@
+<!doctype html>
+<html>
+ <head>
+  <meta charset="utf-8">
+     <tittle>saison 1</tittle>
+  <link rel="stylesheet" href="style1.css" />
+     <link rel="stylesheet" href="index.html">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+ </head> 
+
+<body>
+
+<div id="box1" >
+    </div>
+    
+<div id="tittre" >
+   <h1>saison 1</h1> 
+    </div>
+   
+     <div id="logo" >
+    <img src="snk_logo.png" />
+    </div>
+    
+    
+    <div id="ep1" >
+    <a href="https://fs17.upvid.org/jvb3yqdllwsxdgj3nokfj3cobflmqisd22eqhct63252yf2uvukh5shxppnq/v.mp4" ><img src="card_1.png" /></a>
+        <p1>épisode 1</p1>
+    </div>
+    
+    <div id="ep2" >
+    <a href="snk_vostfr_s1_e2.mp4" ><img src="card_2.png" /></a>
+        <p2>épisode 2</p2>
+    </div>
+   
+     <div id="ep3" >
+    <a href="snk_vostfr_s1_e3.mp4" ><img src="card_3.png" /></a>
+        <p3>épisode 3</p3>
+    </div>
+    
+    <div id="ep4" >
+    <a href="snk_vostfr_s1_e4.mp4" ><img src="card_4.png" /></a>
+        <p4>épisode 4</p4>
+    </div>
+    
+     <div id="ep5" >
+    <a href="snk_vostfr_s1_e5.mp4" ><img src="card_5.png" /></a>
+        <p5>épisode 5</p5>
+    </div>
+    
+    <div id="ep6" >
+    <a href="snk_vostfr_s1_e6.mp4" ><img src="card_6.png" /></a>
+        <p6>épisode 6</p6>
+    </div>
+    
+     <div id="ep7" >
+    <a href="snk_vostfr_s1_e7.mp4" ><img src="card_7.png" /></a>
+        <p7>épisode 7</p7>
+    </div>
+    
+    <div id="ep8" >
+    <a href="snk_vostfr_s1_e8.mp4" ><img src="card_8.png" /></a>
+        <p8>épisode 8</p8>
+    </div>
+    
+    <div id="ep9" >
+    <a href="snk_vostfr_s1_e9.mp4" ><img src="card_9.png" /></a>
+        <p9>épisode 9</p9>
+    </div>
+    
+    <div id="ep10" >
+    <a href="snk_vostfr_s1_e10.mp4" ><img src="card_10.png" /></a>
+        <p10>épisode 10</p10>
+    </div>
+    
+    <div id="ep11" >
+    <a href="snk_vostfr_s1_e11.mp4" ><img src="card_11.png" /></a>
+        <p11>épisode 11</p11>
+    </div>
+
+    <div id="ep12" >
+    <a href="snk_vostfr_s1_e12.mp4" ><img src="card_12.png" /></a>
+        <p12>épisode 12</p12>
+    </div>
+    
+    <div id="ep13" >
+    <a href="snk_vostfr_s1_e13.mp4" ><img src="card_13.png" /></a>
+        <p13>épisode 13</p13>
+    </div>
+    
+    <div id="ep14" >
+    <a href="snk_vostfr_s1_e14.mp4" ><img src="card_14.png" /></a>
+        <p14>épisode 14</p14>
+    </div>
+    
+    <div id="ep15" >
+    <a href="snk_vostfr_s1_e15.mp4" ><img src="card_15.png" /></a>
+        <p15>épisode 15</p15>
+    </div>
+    
+    <div id="ep16" >
+    <a href="snk_vostfr_s1_e16.mp4" ><img src="card_16.png" /></a>
+        <p16>épisode 16</p16>
+    </div>
+    
+    <div id="ep17" >
+    <a href="snk_vostfr_s1_e17.mp4" ><img src="card_17.png" /></a>
+        <p17>épisode 17</p17>
+    </div>
+    
+    <div id="ep18" >
+    <a href="snk_vostfr_s1_e18.mp4" ><img src="card_18.png" /></a>
+        <p18>épisode 18</p18>
+    </div>
+    
+    <div id="ep19" >
+    <a href="snk_vostfr_s1_e19.mp4" ><img src="card_19.png" /></a>
+        <p19>épisode 19</p19>
+    </div>
+    
+    <div id="ep20" >
+    <a href="snk_vostfr_s1_e20.mp4" ><img src="card_20.png" /></a>
+        <p20>épisode 20</p20>
+    </div>
+    
+    <div id="ep21" >
+    <a href="snk_vostfr_s1_e21.mp4" ><img src="card_21.png" /></a>
+        <p21>épisode 21</p21>
+    </div>
+    
+    <div id="ep22" >
+    <a href="snk_vostfr_s1_e22.mp4" ><img src="card_22.png" /></a>
+        <p22>épisode 22</p22>
+    </div>
+    
+    <div id="ep23" >
+    <a href="snk_vostfr_s1_e23.mp4" ><img src="card_23.png" /></a>
+        <p23>épisode 23</p23>
+    </div>
+    
+    <div id="ep24" >
+    <a href="snk_vostfr_s1_e24.mp4" ><img src="card_24.png" /></a>
+        <p24>épisode 24</p24>
+    </div>
+    
+    <div id="ep25" >
+    <a href="snk_vostfr_s1_e25.mp4" ><img src="card_25.png" /></a>
+        <p25>épisode 25</p25>
+    </div>
+    
+    
+    
+    
+    </body>
+    </html>
